@@ -7,9 +7,9 @@ constant, so every run writes the same bytes. Stdlib only, no network.
 
 import os
 
-SUMMARY = """Wednesday, 11 November 2026: Russia and Ukraine agreed their largest prisoner-of-war exchange yet — 1,000 to 1,500 prisoners each, to be finalised the next day — as two days of US-mediated talks in Abu Dhabi ended with no ceasefire or deal on territory. US envoys Jared Kushner and Steve Witkoff were due in Moscow on Thursday to meet Vladimir Putin, then in Dublin to meet Volodymyr Zelenskyy.
+SUMMARY = """Wednesday, 11 November 2026: Russia and Ukraine agreed their largest prisoner exchange yet — 1,000 to 1,500 prisoners each, to be finalised the next day — as two days of US-mediated talks in Abu Dhabi ended with no ceasefire and no deal on territory. US envoys Jared Kushner and Steve Witkoff were due in Moscow on Thursday to meet Vladimir Putin, then in Dublin to meet Volodymyr Zelenskyy.
 
-President Donald Trump and Secretary of State Marco Rubio said the war with Iran was "effectively over" militarily, with pressure continuing and force still possible if Tehran crossed red lines. The Justice Department charged three Iran-backed operatives over alleged plots in the US and Europe, while Treasury Secretary Scott Bessent moved to a military base after threats. Iran said the Strait of Hormuz, shut for over 250 days, would "never return" to its pre-war state.
+President Donald Trump and Secretary of State Marco Rubio said the war with Iran was "effectively over" militarily, though pressure would continue and force remained possible if Tehran crossed red lines. The Justice Department charged three Iran-backed operatives over alleged plots in the US and Europe, and Treasury Secretary Scott Bessent moved to a military base after threats. Iran said the Strait of Hormuz, shut for over 250 days, would "never return" to its pre-war state.
 
 At home, the House voted 211-204 to shelve impeachment articles against Defence Secretary Pete Hegseth, and Republicans elected Jim Jordan their leader after their midterm defeat. British police arrested a 41-year-old US Army officer in England on suspicion of spying for Russia.
 
