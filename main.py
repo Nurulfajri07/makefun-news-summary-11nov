@@ -15,7 +15,9 @@ At home, the House voted 211-204 to shelve impeachment articles against Defence 
 
 World leaders opened the COP31 summit in Antalya, where UN chief Antonio Guterres warned current plans put the planet on course for over 2.5C of warming and urged a climate justice pact funded by taxing fossil-fuel firms. Spain held its first general strike in 14 years over housing, with a shortfall of about 750,000 homes ahead of a snap election on 29 November. Anthropic priced its IPO at $70-$78 a share, valuing it at up to $1.4 trillion, while China's trade surplus passed $1 trillion in the first ten months of the year.
 
-In Gaza, Israeli strikes killed at least seven people, including a father and his 13-year-old son. Twelve died in fog pile-ups on Bulgaria's Trakia motorway, and actor Stacy Keach died aged 85."""
+In Gaza, Israeli strikes killed at least seven people, including a father and his 13-year-old son. Twelve died in fog pile-ups on Bulgaria's Trakia motorway, and actor Stacy Keach died aged 85.
+
+The throughline: deals agreed but unfinished, a war declared over but its chokepoint changed for good."""
 
 def main() -> None:
     os.makedirs("/output", exist_ok=True)
